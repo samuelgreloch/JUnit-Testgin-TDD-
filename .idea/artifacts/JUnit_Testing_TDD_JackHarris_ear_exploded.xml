@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="JUnit-Testing-TDD-JackHarris:ear exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/JUnit_Testing_TDD_JackHarris_ear_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="JUnit-Testing-TDD-JackHarris/javaeeApplication/javaEEApplication" />
+    </root>
+  </artifact>
+</component>
